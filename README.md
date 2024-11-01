@@ -1,4 +1,4 @@
-## Initial 
+## Initial vertion
 
 
 <img src="http://moveit.ros.org/assets/logo/moveit_logo-black.png" alt="MoveIt Logo" width="200"/>
